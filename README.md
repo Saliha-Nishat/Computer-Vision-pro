@@ -4,6 +4,7 @@ Dataset Overview
 Total Images: 91,793
 Expression Categories: Happiness, Sadness, Anger, Surprise, Fear, Disgust, Neutral
 Diversity: Includes variations in age, gender, ethnicity, lighting, background, and face poses, representing natural real-world scenarios.
+
 File Structure
 images/: Contains all face images labeled with corresponding expressions.
 labels.csv: Includes image filenames with their associated expression labels.
